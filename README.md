@@ -1,4 +1,5 @@
 # NaijaCovid-19
+![](paper.png)
 Repository for Tweets about Covid-19 in Nigeria
 
 We collected tweets from Twitter (now X) using the Twitter Academic API from 1st November 2020 to 30th June 2022. We collected tweets keywords relating to COVID-19 vaccination using keywords like vaccin*, moderna, pfizer, biontech, gamaleya, janssen, astrazeneca, astrazeneca, co- vishield, sinopharm, jab, microchips, infertility, tracking, magnet. The collection was restricted to only Tweets in Nigeria using location ID in the query. A total of 5200 tweets were collected. After removing URLS, tweets with less than three words, and tweets not in Latin characters, the tweets were reduced to 4320.
