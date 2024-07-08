@@ -7,6 +7,7 @@ The tweets were then annotated by three (3) independent annotators using an anno
 2. Negative:Iftheuser’stweetimpliesanegativeattitude or opinion towards the vaccine. For example, the tweets contain negative words or some terms that imply a negative attitude towards COVID-19 vaccine like kill, harmful, tracker, chip, critical, angry, disap- pointed in, pessimistic, expressing sarcasm about, or mocking COVID-19 vaccine.
 3. Neutral: If the user’s tweet does not imply any opin- ion.
 4. Indeterminate: If the tweet is unintelligible.
+
 After the annotation, majority vote was used to assign the final class of tweets in the following manner:
 1. If all the annotators agree on the same class, then that class is automatically accepted.
 2. If two annotators agree on either positive or negative and the last annotator classifies the tweet as neutral, then the tweet is assigned the majority class.
